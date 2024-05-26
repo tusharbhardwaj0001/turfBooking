@@ -1,0 +1,8 @@
+server/node_modules
+server/.env
+server/package-lock.json
+
+
+
+turf/node_modules
+turf/package-lock.json
